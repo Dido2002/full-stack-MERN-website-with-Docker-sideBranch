@@ -3,8 +3,6 @@ import styled from "styled-components";
 import tw from "twin.macro";
 import { Car } from "../../components/car";
 import { ICar } from "../../../typings/car";
-import "@brainhubeu/react-carousel/lib/styles.css";
-import { Carousel } from "react-responsive-carousel";
 
 const TopCarsContainer = styled.div`
   ${tw`
