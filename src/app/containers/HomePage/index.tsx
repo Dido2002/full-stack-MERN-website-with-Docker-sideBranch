@@ -33,6 +33,7 @@ export function HomePage () {
         <AboutUs/>
         <Marginer direction="vertical" margin="10em"/>
         <TopCars/>
+        <Marginer direction="vertical" margin="8em"/>
         <Footer/>
     </PageContainer>
 }
